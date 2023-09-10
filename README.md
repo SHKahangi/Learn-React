@@ -40,6 +40,7 @@ To run the example projects in this repository:
 
   - What is React?
   - Why React?
+  - Building your first React app
 
 - **JSX**
   - Basic Syntax
